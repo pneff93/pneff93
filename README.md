@@ -4,8 +4,8 @@
 
 ## 📊 Ecosystem Overview
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pneff93&show_icons=true&theme=transparent&hide_border=true&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pneff93&layout=compact&theme=transparent&hide_border=true&title_color=00d1ff&text_color=ffffff" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=pneff93&show_icons=true&theme=tokyonight&title_color=00d1ff&icon_color=00d1ff&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pneff93&layout=compact&theme=tokyonight&title_color=00d1ff&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
