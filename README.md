@@ -56,7 +56,8 @@
  ### 🕒 Recent Activity
 | Project | Description |
 | :--- | :--- | 
-| <img src="https://cdn.simpleicons.org/databricks/original" height="20" alt="databricks" /> [ tableflow-azure-databricks](https://github.com/pneff93/tableflow-azure-databricks) | Confluent Cloud Tableflow & Azure Databricks integration |
+| [ tableflow-azure-databricks](https://github.com/pneff93/tableflow-azure-databricks) | Confluent Cloud Tableflow & Azure Databricks integration |
+|  [ dbt-cc-stream-processing](https://github.com/pneff93/dbt-cc-stream-processing) | Stream Processing in Confluent Cloud Flink with data build tool (dbt) |
 
 ### ⭐ Most Popular Projects
 | Project | Description | Stars | Forks |
