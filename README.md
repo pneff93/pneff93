@@ -20,7 +20,7 @@
       <h4>Confluent Platform (CP)</h4>
       Hands-on implementation of Confluent Platform features, including
       <ul>
-        <li>Client authentication via <a href="https://github.com/pneff93/cfk-clients-oauth">OAuth/OIDC</a> with CFK</li>
+        <li>Client authentication via <a href="https://github.com/pneff93/cfk-clients-oauth">OAuth/OIDC</a> with CFK (AKS)</li>
         <li>Advanced governance via <a href="https://github.com/pneff93/sr-data-contract">Data Contracts</a></li>
         <li>Optimized infrastructure via <a href="https://github.com/pneff93/cp-tiered-storage">Tiered Storage</a>  (AWS/Azure)</li>
       </ul>
@@ -32,7 +32,11 @@
       <img src="https://cdn.simpleicons.org/terraform/original" height="40" alt="Terraform" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/kubernetes/original" height="40" alt="Kubernetes" />
       <p>Infrastructure-as-Code (IaC) for automated provisioning and resource lifecycle management.
-      <br> In particular, using <a href="https://github.com/pneff93/cc-terraform-example"> Terraform</a> and <a href="https://github.com/pneff93/cfk-playground"> Confluent for k8s</a> as playgrounds.</p>
+              <ul>
+        <li><a href="https://github.com/pneff93/cc-terraform-example"> Confluent Terraform Provider</a</li>
+        <li><a href="https://github.com/pneff93/cfk-playground"> Confluent for k8s</a></li>
+      </ul>
+</p>
     </td>
     <td colspan="2" width="33%" valign="top">
      <h4>Stream Processing</h4>
