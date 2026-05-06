@@ -44,7 +44,7 @@
                       <ul>
         <li><a href="https://github.com/pneff93/flink-ts-forecast">Built-in AI/ML Functions with Confluent Cloud for Apache Flink</a></li>
                         <li><a href="https://github.com/pneff93/dbt-cc-stream-processing">Stream Processing in Confluent Cloud Flink with dbt</a></li>
-        <li><a href="https://github.com/pneff93/flink-udf-development"> AI drivend Flink UDF development</a></li>
+        <li><a href="https://github.com/pneff93/flink-udf-development"> AI driven Flink UDF development</a></li>
                          <li><a href="https://github.com/pneff93/stream-processing-playground"> Stream processing with several frameworks (Flink, KStreams, ksqlDB)</a></li>
       </ul>
     </td>
@@ -52,7 +52,11 @@
       <h4>Machine Learning</h4>
       <img src="https://cdn.simpleicons.org/r/original" height="40" alt="R" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/python/original" height="40" alt="Python" />
-      <p>Operationalizing Data Science by implementing <a href="https://github.com/pneff93/Kafka-R-Realtime-Prediction">real-time predictive models</a> and playing with common <a href="https://github.com/pneff93/ml-frameworks"> ML frameworks, such as TensorFlow or XGBoost</a>.</p>
+      <p>Operationalizing Data Science and Machine Learning</p>
+                            <ul>
+        <li> <a href="https://github.com/pneff93/Kafka-R-Realtime-Prediction">real-time prediction with R</a></li>
+                        <li><a href="https://github.com/pneff93/ml-frameworks"> Playground for ML frameworks, such as TensorFlow or XGBoost</a></li>
+      </ul>
     </td>
   </tr>
 </table>
