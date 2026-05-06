@@ -8,7 +8,6 @@
   <tr>
     <td colspan="3" width="50%" valign="top">
       <h4>Confluent Cloud (CC)</h4>
-      Hands-on implementation of Confluent Cloud features, including
       <ul>
         <li><a href="https://github.com/pneff93/Tableflow-Azure-Databricks">Tableflow</a> integration with Azure Databricks</li>
         <li><a href="https://github.com/pneff93/csfle">Client-Side Field Level Encryption (CSFLE)</a> with multiple Key Vault providers</li>
@@ -18,7 +17,6 @@
     </td>
     <td colspan="3" width="50%" valign="top">
       <h4>Confluent Platform (CP)</h4>
-      Hands-on implementation of Confluent Platform features, including
       <ul>
         <li>Client authentication via <a href="https://github.com/pneff93/cfk-clients-oauth">OAuth/OIDC</a> with CFK (AKS)</li>
         <li>Advanced governance via <a href="https://github.com/pneff93/sr-data-contract">Data Contracts</a></li>
