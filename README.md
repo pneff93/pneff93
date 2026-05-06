@@ -43,7 +43,12 @@
       <img src="https://cdn.simpleicons.org/apacheflink/original" height="40" alt="Apache Flink" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/apachekafka/original" height="40" alt="Apache Kafka" /> 
       <p>Building real-time stream processing pipelines using Apache Flink, Kafka Streams and ksqlDB.
-       <br>Repos include typical data transformations such as filtering, aggregations, and flattening as well as the usage of <a href="https://github.com/pneff93/flink-ts-forecast">Built-in AI/ML Functions with Confluent Cloud for Apache Flink</a>.
+                      <ul>
+        <li><a href="https://github.com/pneff93/flink-ts-forecast">Built-in AI/ML Functions with Confluent Cloud for Apache Flink</a></li>
+                        <li><a href="https://github.com/pneff93/dbt-cc-stream-processing">Stream Processing in Confluent Cloud Flink with dbt</a></li>
+        <li><a href="https://github.com/pneff93/flink-udf-development"> AI drivend Flink UDF development</a></li>
+                         <li><a href="https://github.com/pneff93/stream-processing-playground"> Stream processing with several frameworks (Flink, KStreams, ksqlDB)</a></li>
+      </ul>
     </td>
     <td colspan="2" width="33%" valign="top">
       <h4>Machine Learning</h4>
