@@ -52,9 +52,9 @@
       <h4>Machine Learning</h4>
       <img src="https://cdn.simpleicons.org/r/original" height="40" alt="R" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/python/original" height="40" alt="Python" />
-      <p>Operationalizing Data Science and Machine Learning</p>
+      <p>Operationalizing Data Science and Machine Learning.</p>
                             <ul>
-        <li> <a href="https://github.com/pneff93/Kafka-R-Realtime-Prediction">real-time prediction with R</a></li>
+        <li> <a href="https://github.com/pneff93/Kafka-R-Realtime-Prediction">Real-time prediction with R</a></li>
                         <li><a href="https://github.com/pneff93/ml-frameworks"> Playground for ML frameworks, such as TensorFlow or XGBoost</a></li>
       </ul>
     </td>
