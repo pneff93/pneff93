@@ -31,8 +31,8 @@
       <img src="https://cdn.simpleicons.org/kubernetes/original" height="40" alt="Kubernetes" />
       <p>
               <ul>
-        <li><a href="https://github.com/pneff93/cc-terraform-example"> Confluent Terraform Provider</a</li>
-        <li><a href="https://github.com/pneff93/cfk-playground"> Confluent for k8s</a></li>
+        <li><a href="https://github.com/pneff93/cc-terraform-example"> Confluent Terraform Provider playground</a</li>
+        <li><a href="https://github.com/pneff93/cfk-playground"> Confluent for k8s (CFK) playground</a></li>
       </ul>
 </p>
     </td>
@@ -40,7 +40,7 @@
      <h4>Stream Processing & Data Integration</h4>
       <img src="https://cdn.simpleicons.org/apacheflink/original" height="40" alt="Apache Flink" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/apachekafka/original" height="40" alt="Apache Kafka" /> 
-      <p>Building real-time stream processing pipelines and integrations using Apache Flink, Kafka Streams, ksqlDB, and Kafka Connect.
+      <p>
                       <ul>
                         <li><a href="https://github.com/pneff93/dbt-cc-stream-processing">Stream Processing in Confluent Cloud Flink with dbt</a></li>
                          <li><a href="https://github.com/pneff93/stream-processing-playground"> Stream processing with several frameworks (Flink, KStreams, ksqlDB)</a></li>
@@ -51,12 +51,12 @@
       <h4>Machine Learning & AI</h4>
       <img src="https://cdn.simpleicons.org/r/original" height="40" alt="R" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/python/original" height="40" alt="Python" />
-      <p>Playground for Confluent Intelligence, Machine Learning, and AI.</p>
+      <p></p>
                             <ul>
                                     <li><a href="https://github.com/pneff93/flink-udf-development"> AI driven Flink UDF development</a></li>
                                             <li><a href="https://github.com/pneff93/flink-ts-forecast">Built-in AI/ML Functions with Confluent Cloud for Apache Flink</a></li>
         <li> <a href="https://github.com/pneff93/Kafka-R-Realtime-Prediction">Real-time prediction with R</a></li>
-                        <li><a href="https://github.com/pneff93/ml-frameworks"> Playground for ML frameworks, such as TensorFlow or XGBoost</a></li>
+                        <li><a href="https://github.com/pneff93/ml-frameworks"> Playground for ML frameworks (TensorFlow, XGBoost)</a></li>
       </ul>
     </td>
   </tr>
