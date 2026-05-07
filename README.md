@@ -37,23 +37,24 @@
 </p>
     </td>
     <td colspan="2" width="33%" valign="top">
-     <h4>Stream Processing</h4>
+     <h4>Stream Processing & Integration</h4>
       <img src="https://cdn.simpleicons.org/apacheflink/original" height="40" alt="Apache Flink" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/apachekafka/original" height="40" alt="Apache Kafka" /> 
       <p>Building real-time stream processing pipelines using Apache Flink, Kafka Streams and ksqlDB.
                       <ul>
-        <li><a href="https://github.com/pneff93/flink-ts-forecast">Built-in AI/ML Functions with Confluent Cloud for Apache Flink</a></li>
                         <li><a href="https://github.com/pneff93/dbt-cc-stream-processing">Stream Processing in Confluent Cloud Flink with dbt</a></li>
-        <li><a href="https://github.com/pneff93/flink-udf-development"> AI driven Flink UDF development</a></li>
                          <li><a href="https://github.com/pneff93/stream-processing-playground"> Stream processing with several frameworks (Flink, KStreams, ksqlDB)</a></li>
+                        <li><a href="https://github.com/pneff93/debezium-connect"> Debezium CDC integration with snapshots triggered by Kafka events</a></li>
       </ul>
     </td>
     <td colspan="2" width="33%" valign="top">
-      <h4>Machine Learning</h4>
+      <h4>Machine Learning & AI</h4>
       <img src="https://cdn.simpleicons.org/r/original" height="40" alt="R" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/python/original" height="40" alt="Python" />
       <p>Operationalizing Data Science and Machine Learning.</p>
                             <ul>
+                                    <li><a href="https://github.com/pneff93/flink-udf-development"> AI driven Flink UDF development</a></li>
+                                            <li><a href="https://github.com/pneff93/flink-ts-forecast">Built-in AI/ML Functions with Confluent Cloud for Apache Flink</a></li>
         <li> <a href="https://github.com/pneff93/Kafka-R-Realtime-Prediction">Real-time prediction with R</a></li>
                         <li><a href="https://github.com/pneff93/ml-frameworks"> Playground for ML frameworks, such as TensorFlow or XGBoost</a></li>
       </ul>
