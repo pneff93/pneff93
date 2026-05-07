@@ -29,7 +29,7 @@
       <h4>  Infrastructure</h4>
       <img src="https://cdn.simpleicons.org/terraform/original" height="40" alt="Terraform" /> &nbsp; 
       <img src="https://cdn.simpleicons.org/kubernetes/original" height="40" alt="Kubernetes" />
-      <p>Infrastructure-as-Code (IaC) for automated provisioning and resource lifecycle management.
+      <p>
               <ul>
         <li><a href="https://github.com/pneff93/cc-terraform-example"> Confluent Terraform Provider</a</li>
         <li><a href="https://github.com/pneff93/cfk-playground"> Confluent for k8s</a></li>
